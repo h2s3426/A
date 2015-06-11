@@ -1,0 +1,31 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:RootNode id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<Children href="#ref-3"/>
+</a1:RootNode>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:NodeSite[2]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+</SOAP-ENC:Array>
+<a1:NodeSite id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<Node href="#ref-6"/>
+<Expanded>false</Expanded>
+<Parent href="#ref-1"/>
+<Children href="#ref-7"/>
+</a1:NodeSite>
+<a1:NodeSite id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<Node href="#ref-8"/>
+<Expanded>false</Expanded>
+<Parent href="#ref-1"/>
+<Children href="#ref-9"/>
+</a1:NodeSite>
+<a1:DataConnectionsNode id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+</a1:DataConnectionsNode>
+<SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="a1:NodeSite[0]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+</SOAP-ENC:Array>
+<a1:ServersNode id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+</a1:ServersNode>
+<SOAP-ENC:Array id="ref-9" SOAP-ENC:arrayType="a1:NodeSite[0]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Microsoft.VSDesigner.ServerExplorer/Microsoft.VSDesigner%2C%20Version%3D9.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+</SOAP-ENC:Array>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

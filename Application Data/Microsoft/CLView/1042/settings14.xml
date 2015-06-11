@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updatedata version="23">
+  <assetid lcid=" ">AF101773429</assetid>
+  <csversion date="2012-10-18"/>
+  <title>클라이언트 뷰어 설정(웹 전용)</title>
+  <scopes>
+    <application owner="default">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="SPD FRONTPG MSACCESS MSPUB WINPROJ OUTLOOK">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+        <onlinescope caption="개발자 참고" scope="HP%2CHA%2CHV" namespace="|1.DEV"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="|1.DEV"/>
+      </offlinescopes>
+    </application>
+    <application owner="EXCEL POWERPNT WINWORD">
+      <onlinescopes>
+	<onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/> 
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+        <onlinescope caption="개발자 참고" scope="HP%2CHA%2CHV" namespace="|1.DEV"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="|1.DEV"/>
+      </offlinescopes>
+    </application>
+    <application owner="ONENOTE">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="WINPROJ_STD">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHS%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHS%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+        <onlinescope caption="개발자 참고" scope="HP%2CHA%2CHV" namespace="WINPROJ.DEV"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="WINPROJ.DEV"/>
+      </offlinescopes>
+    </application>
+    <application owner="INFOPATH">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="INFOPATHEDITOR">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="MSE">
+      <onlinescopes>
+        <onlinescope caption="Microsoft Script Editor 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CHV" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="Microsoft Script Editor 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="VISIO">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+        <onlinescope caption="개발자 참고" scope="HP%2CHA%2CHV" namespace="|1.DEV"/>
+        <onlinescope caption="|0 셰이프시트 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CHV" namespace="|1.SHAPESHEET"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="|1.DEV"/>
+        <offlinescope caption="|0 셰이프시트 도움말" namespace="|1.SHAPESHEET"/>
+      </offlinescopes>
+    </application>
+    <application owner="VISIO_STD">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+        <onlinescope caption="개발자 참고" scope="HP%2CHA%2CHV" namespace="VISIO.DEV"/>
+        <onlinescope caption="|0 셰이프시트 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CHV" namespace="VISIO.SHAPESHEET"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="VISIO.DEV"/>
+        <offlinescope caption="|0 셰이프시트 도움말" namespace="VISIO.SHAPESHEET"/>
+      </offlinescopes>
+    </application>
+    <application owner="VISIO_PRM">
+      <onlinescopes>
+        <onlinescope caption="모든 |0" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT" namespace="|1"/>
+        <onlinescope caption="|0 온라인 교육" scope="RZ" namespace="|1"/>
+        <onlinescope caption="개발자 참고" scope="HP%2CHA%2CHV" namespace="VISIO.DEV"/>
+        <onlinescope caption="|0 셰이프시트 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CHV" namespace="VISIO.SHAPESHEET"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="VISIO.DEV"/>
+        <offlinescope caption="|0 셰이프시트 도움말" namespace="VISIO.SHAPESHEET"/>
+      </offlinescopes>
+    </application>
+    <application owner="MSTORE">
+      <onlinescopes>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="CPAO GROOVE XWEB">
+      <onlinescopes>
+        <onlinescope caption="|0 도움말" scope="HP%2CHA%2CRZ%2CFX%2CXT%2CVA" namespace="|1"/>
+      </onlinescopes>
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+      </offlinescopes>
+    </application>
+    <application owner="EXPRWD">
+      <offlinescopes>
+        <offlinescope caption="|0 도움말" namespace="|1"/>
+        <offlinescope caption="개발자 참고" namespace="|1.DEV"/>
+      </offlinescopes>
+    </application>
+  </scopes>
+  <allowlist>
+    <urls>
+      <url>HTTP://SUPPORT.INT.OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://SUPPORT.EDOG.OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://SUPPORT.OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://OCSA.OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://OCSA.INT.OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://OCSA.EDOG.OFFICE.MICROSOFT.COM/CLIENT/*</url>
+      <url>HTTP://OCSA.OFFICEAPPS.LIVE.COM/CLIENT/*</url>
+      <url>/CLIENT/*</url>
+      <url>http://static.ak.facebook.com/*</url>
+      <url>https://static.ak.facebook.com/*</url>
+      <url>http://s-static.ak.facebook.com/*</url>
+      <url>https://s-static.ak.facebook.com/*</url>
+      <url>http://www.facebook.com/plugins/*</url>
+      <url>https://www.facebook.com/plugins/*</url>
+    </urls>
+    <assetrestrictedurls>
+      <url>/*/ASSISTANCE/$.ASPX*</url>
+      <url>/SEARCH/REDIR.ASPX?*</url>
+      <url>/TRAINING/TRAINING14.ASPX*</url>
+      <url>/CLIENT/HELPPREVIEW14.ASPX?*</url>
+      <url>HTTP://OFFICEREDIR.MICROSOFT.COM/R/RLIDTRAININGCOURSEFROMCLIENT*</url>
+      <url>/R/RLIDTRAININGCOURSEFROMCLIENT*</url>
+      <url>/download/afile.aspx?*</url>
+      <url>/REDIR/$.ASPX*</url>
+      <url>/*/file.aspx?*</url>
+    </assetrestrictedurls>
+    <assets>
+      <asset>HA</asset>
+      <asset>HP</asset>
+      <asset>HV</asset>
+      <asset>HS</asset>
+      <asset>RH</asset>
+      <asset>AM</asset>
+    </assets>
+    <searchrestrictedurls>
+      <url>/CLIENT/*</url>
+    </searchrestrictedurls>
+  </allowlist>
+</updatedata>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<wundbar>
+	<initMail>1</initMail>
+	<initShortcuts>1</initShortcuts>
+	<version>147149</version>
+	<dataversion>1202</dataversion>
+	<stores>
+		<storeblock>
+			<eidstore>0000000038A1BB1005E5101AA1BB08002B2A56C200006D737073742E646C6C00000000004E495441F9BFB80100AA0037D96E0000000044003A005C001CAC78C790C7CCB85C0054BA7CC770B374C730D15C004F00750074006C006F006F006B002E007000730074000000</eidstore>
+			<storeid>0</storeid>
+			<crawledIn12>1</crawledIn12>
+		</storeblock>
+	</stores>
+	<userdefined>
+		<linkgroup name="바로 가기" clsid="E7B95A5F03C6CA47A7DF7AE2136B950F">
+		</linkgroup>
+	</userdefined>
+</wundbar>

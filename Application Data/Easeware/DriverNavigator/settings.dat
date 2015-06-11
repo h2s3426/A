@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<UseDefaultProxy>true</UseDefaultProxy>
+<ProxyServer />
+<ProxyPort>80</ProxyPort>
+<ProxyUser />
+<ProxyPassword />
+<AutoCreateStorePoint>true</AutoCreateStorePoint>
+<CloseConfirm>false</CloseConfirm>
+<CloseToTray>true</CloseToTray>
+<ScheduleScan>true</ScheduleScan>
+<UploadHardwareInfo>true</UploadHardwareInfo>
+<Language>en</Language>
+</Settings>

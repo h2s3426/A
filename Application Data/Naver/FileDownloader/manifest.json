@@ -1,0 +1,9 @@
+{
+  "name": "nfiledownloader_1.0.0.35",
+  "description": "Naver Software Downloader",
+  "path": "NFileDownloader.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://anepigfegadpjplagifaocofigipbjhn/"
+  ]
+}

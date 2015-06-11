@@ -1,0 +1,1 @@
+user_pref("dom.ipc.plugins.enabled.npcrossmail.dll", false);

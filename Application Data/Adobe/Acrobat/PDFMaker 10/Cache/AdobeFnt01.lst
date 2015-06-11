@@ -1,0 +1,95 @@
+%!Adobe-FontList 1.13
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeGothicStd-Bold
+FamilyName:Adobe Gothic Std
+StyleName:B
+FullName:Adobe Gothic Std B
+MenuName:Adobe 고딕 Std B
+StyleBits:2
+FamilyNameNative:Adobe 고딕 Std
+StyleNameNative:B
+FullNameNative:Adobe 고딕 Std B
+WritingScript:Korean
+OutlineFileName:C:\Program Files\Adobe\Acrobat 10.0\Resource\CIDFont\AdobeGothicStd-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:2885176
+FileModTime:1289822554
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeMyungjoStd-Medium
+FamilyName:Adobe Myungjo Std
+StyleName:M
+FullName:Adobe Myungjo Std M
+MenuName:Adobe 명조 Std M
+StyleBits:0
+FamilyNameNative:Adobe 명조 Std
+StyleNameNative:M
+FullNameNative:Adobe 명조 Std M
+WritingScript:Korean
+OutlineFileName:C:\Program Files\Adobe\Acrobat 10.0\Resource\CIDFont\AdobeMyungjoStd-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:4101108
+FileModTime:1289822554
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Medium
+FamilyName:Kozuka Gothic Pr6N
+StyleName:M
+FullName:Kozuka Gothic Pr6N M
+MenuName:Kozuka Gothic Pr6N M
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:M
+FullNameNative:小塚ゴシック Pr6N M
+WritingScript:Japanese
+OutlineFileName:C:\Program Files\Adobe\Acrobat 10.0\Resource\CIDFont\KozGoPr6N-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:5499164
+FileModTime:1289822554
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozMinPr6N-Regular
+FamilyName:Kozuka Mincho Pr6N
+StyleName:R
+FullName:Kozuka Mincho Pr6N R
+MenuName:Kozuka Mincho Pr6N R
+StyleBits:0
+FamilyNameNative:小塚明朝 Pr6N
+StyleNameNative:R
+FullNameNative:小塚明朝 Pr6N R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files\Adobe\Acrobat 10.0\Resource\CIDFont\KozMinPr6N-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8134748
+FileModTime:1289822554
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

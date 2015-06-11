@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+		
+	<Description about="urn:mozilla:install-manifest">
+		<!-- properties -->
+		<em:id>{0AB9084F-0EF8-499a-A461-DE46D3C4A45B}</em:id>
+		<em:version>6.4</em:version>
+		<em:type>2</em:type>
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>3.0</em:minVersion>
+				<em:maxVersion>*</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+		<em:name>INISAFE CrossWeb</em:name>
+		<em:description>INISAFE CrossWeb v6.4</em:description>
+		<em:creator>INITECH Co., Ltd.</em:creator>
+		<em:homepageURL>http://www.initech.com</em:homepageURL>	
+		<em:targetPlatform>WINNT_x86-msvc</em:targetPlatform>
+	</Description>
+</RDF>

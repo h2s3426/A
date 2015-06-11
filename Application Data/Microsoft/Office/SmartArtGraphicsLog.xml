@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="res://C:\Program Files\Common Files\Microsoft Shared\office14\1042\MSOINTL.DLL/SMARTARTGRAPHICSLOG.XSLT" type="text/xsl"?>
+<log>
+	<entry>
+		<time>2014-06-03T13:45:38.875</time>
+		<sev>warn3</sev>
+		<host>POWERPNT.EXE</host>
+		<uniqueId>urn:microsoft.com/office/officeart/2008/layout/CaptionedPictures</uniqueId>
+		<type>constraintOrder</type>
+		<desc>composite 알고리즘은 하위 노드 순서로 해당 제약 조건을 계산합니다. 제약 조건의 순서와 이 레이아웃 노드의 노드 순서가 일치해야 합니다.</desc>
+		<context>*constr type=l for=ch forName=Child *layoutNode=ChildComposite *alg=composite</context>
+		<line>220</line>
+		<col>73</col>
+	</entry>
+</log>

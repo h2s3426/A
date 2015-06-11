@@ -1,0 +1,210 @@
+11/18/2013 19:13:28 NoClear flag is specified.
+
+11/18/2013 19:13:28    COM initialized with S_OK success code.
+
+11/18/2013 19:13:28 Branding Internet Explorer...
+11/18/2013 19:13:28 Command line is "/mode:isp /peruser".
+
+11/18/2013 19:13:28 Global branding settings are:
+11/18/2013 19:13:28    Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+11/18/2013 19:13:28    Settings file is        "C:\Program Files\Internet Explorer\Signup\install.ins";
+11/18/2013 19:13:28    Target folder path is   "C:\Program Files\Internet Explorer\Signup".
+11/18/2013 19:13:28 Done.
+
+11/18/2013 19:13:28    About to clear previous branding...
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing migration of old settings...
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing wininet setup...
+11/18/2013 19:13:28    There are no connection settings to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing deletion of connection settings...
+11/18/2013 19:13:28    Existing connection settings weren't specified to be deleted!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing zones HKCU settings...
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing local machine policies and restrictions...
+11/18/2013 19:13:28    There are no local machine *.inf files to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing current user policies and restrictions...
+11/18/2013 19:13:28    There are no current user *.inf files to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing legacy policies and restrictions...
+11/18/2013 19:13:28        There are no local machine *.inf files to process!
+11/18/2013 19:13:28        There are no current user *.inf files to process!
+11/18/2013 19:13:28    There are no legacy *.inf files to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing general customizations...
+11/18/2013 19:13:28    Company name is set to "Microsoft Corporation".
+11/18/2013 19:13:28    Custom key is set to "MICROSO".
+11/18/2013 19:13:28    Wizard version is set to "6.0.2600.0000".
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing Help->About customization...
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing browser toolbar buttons...
+11/18/2013 19:13:28    There are no toolbar buttons to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing root certificates...
+11/18/2013 19:13:28    This feature is for ISPs only!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing deletion of favorites and/or quick links...
+11/18/2013 19:13:28    None of the favorites folders were specified to be deleted!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing favorites...
+11/18/2013 19:13:28    Creating separate thread for processing favorites...
+
+11/18/2013 19:13:28    COM initialized with S_OK success code.
+11/18/2013 19:13:28    Using [FavoritesEx] section...
+
+11/18/2013 19:13:28        Preprocessing "Title1" title key...
+11/18/2013 19:13:28        Preprocessing "URL1" URL key...
+11/18/2013 19:13:28        Adding this favorite:
+11/18/2013 19:13:28            Determining favorites attributes...
+11/18/2013 19:13:28                <Favorites> folder location is "C:\Documents and Settings\User\Favorites".
+11/18/2013 19:13:28            Title     - "MSN.co.kr.url",
+11/18/2013 19:13:28            URL       - "http://www.microsoft.com/isapi/redir.dll?prd=ie&pver=6&ar=IStart",
+11/18/2013 19:13:28            with a default icon,
+11/18/2013 19:13:28            not marked IEAK created,
+11/18/2013 19:13:28            not made available offline
+11/18/2013 19:13:28            Done.
+11/18/2013 19:13:28        Done.
+
+11/18/2013 19:13:28        Preprocessing "Title2" title key...
+11/18/2013 19:13:28        Preprocessing "URL2" URL key...
+11/18/2013 19:13:28        Adding this favorite:
+11/18/2013 19:13:28            Determining favorites attributes...
+11/18/2013 19:13:28            Title     - "라디오 방송국 안내11/18/2013 19:13:28            URL       - "http://www.microsoft.com/isapi/redir.dll?prd=windows&sbp=mediaplayer&plcid=&pver=6.1&os=&over=&olcid=&clcid=&ar=Media&sba=RadioBar&o1=&o2=&o3=",
+11/18/2013 19:13:28            with a default icon,
+11/18/2013 19:13:28            not marked IEAK created,
+11/18/2013 19:13:28            not made available offline
+11/18/2013 19:13:28            Done.
+11/18/2013 19:13:28        Done.
+
+11/18/2013 19:13:28        Preprocessing "Title3" title key...
+11/18/2013 19:13:28        Failed with E_FAIL.
+
+11/18/2013 19:13:28        Preprocessing "Title4" title key...
+11/18/2013 19:13:28        This key doesn't exist indicating that there are no more favorites.
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing ordering of favorites...
+11/18/2013 19:13:28    Favorites will be put into the default position!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing quick links...
+11/18/2013 19:13:28    Creating separate thread for processing quick links...
+
+11/18/2013 19:13:28    COM initialized with S_OK success code.
+11/18/2013 19:13:28        Preprocessing "Quick_Link_1_Name" quick link title key...
+11/18/2013 19:13:28        Preprocessing "Quick_Link_1" quick link URL key...
+11/18/2013 19:13:28        Adding this quick link:
+11/18/2013 19:13:28            Determining favorites attributes...
+11/18/2013 19:13:28            Title     - "연결\연결 사용자 정�11/18/2013 19:13:28            URL       - "http://www.microsoft.com/isapi/redir.dll?prd=ie&pver=6&ar=CLinks",
+11/18/2013 19:13:28            with a default icon,
+11/18/2013 19:13:28            not marked IEAK created,
+11/18/2013 19:13:28            not made available offline
+11/18/2013 19:13:28            Done.
+11/18/2013 19:13:28        Done.
+
+11/18/2013 19:13:28        Preprocessing "Quick_Link_2_Name" quick link title key...
+11/18/2013 19:13:28        Preprocessing "Quick_Link_2" quick link URL key...
+11/18/2013 19:13:28        Adding this quick link:
+11/18/2013 19:13:28            Determining favorites attributes...
+11/18/2013 19:13:28            Title     - "연결\무료 Hotmail.url11/18/2013 19:13:28            URL       - "http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=hotmail",
+11/18/2013 19:13:28            with a default icon,
+11/18/2013 19:13:28            not marked IEAK created,
+11/18/2013 19:13:28            not made available offline
+11/18/2013 19:13:28            Done.
+11/18/2013 19:13:28        Done.
+
+11/18/2013 19:13:28        Preprocessing "Quick_Link_3_Name" quick link title key...
+11/18/2013 19:13:28        Preprocessing "Quick_Link_3" quick link URL key...
+11/18/2013 19:13:28        Adding this quick link:
+11/18/2013 19:13:28            Determining favorites attributes...
+11/18/2013 19:13:28            Title     - "연결\Windows.url",11/18/2013 19:13:28            URL       - "http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=windows",
+11/18/2013 19:13:28            with a default icon,
+11/18/2013 19:13:28            not marked IEAK created,
+11/18/2013 19:13:28            not made available offline
+11/18/2013 19:13:28            Done.
+11/18/2013 19:13:28        Done.
+
+11/18/2013 19:13:28        Preprocessing "Quick_Link_4_Name" quick link title key...
+11/18/2013 19:13:28        Preprocessing "Quick_Link_4" quick link URL key...
+11/18/2013 19:13:28        Adding this quick link:
+11/18/2013 19:13:28            Determining favorites attributes...
+11/18/2013 19:13:28            Title     - "연결\Windows Media.url",11/18/2013 19:13:28            URL       - "http://www.microsoft.com/isapi/redir.dll?prd=ie&ar=windowsmedia",
+11/18/2013 19:13:28            with a default icon,
+11/18/2013 19:13:28            not marked IEAK created,
+11/18/2013 19:13:28            not made available offline
+11/18/2013 19:13:28            Done.
+11/18/2013 19:13:28        Done.
+
+11/18/2013 19:13:28        Preprocessing "Quick_Link_5_Name" quick link title key...
+11/18/2013 19:13:28        This key doesn't exist indicating that there are no more quick links.
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing ordering of quick links...
+11/18/2013 19:13:28    Quick Links will be put into the default position!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing connection settings...
+11/18/2013 19:13:28    There are no connection settings to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing TrustedPublisherLockdown restriction...
+11/18/2013 19:13:28    This restriction is not set!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Registering download URLs as safe for updating IE...
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Deleting links...
+11/18/2013 19:13:28    No links to delete!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Branding Outlook Express...
+11/18/2013 19:13:28    There are no Outlook Express settings to brand!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing active desktop customizations...
+11/18/2013 19:13:28    No desktop customizations to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing channels and their categories (if any)...
+11/18/2013 19:13:28    There are no channels to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing software update channels...
+11/18/2013 19:13:28        <Web> folder location is "C:\WINDOWS\Web".
+11/18/2013 19:13:28    There are no software update channels to add!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Actual processing of channels by calling webcheck.dll "DllInstall" API...
+11/18/2013 19:13:28    There is no webcheck processing necessary!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Showing channel bar on the desktop...
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Processing subscriptions...
+11/18/2013 19:13:28    There are no subscriptions to process!
+11/18/2013 19:13:28    Done.
+
+11/18/2013 19:13:28    Refreshing browser settings...
+11/18/2013 19:13:28    Broadcasting "Windows settings change" to all top level windows...
+11/18/2013 19:13:28    Done.
+11/18/2013 19:13:28 Done.
+11/18/2013 19:13:28 Done.
